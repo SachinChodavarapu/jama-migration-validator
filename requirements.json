@@ -1,0 +1,6 @@
+[
+ { "id":1, "type":"Epic", "title":"User Authentication", "parent":null },
+ { "id":2, "type":"Requirement", "title":"User Login", "parent":1 },
+ { "id":3, "type":"Requirement", "title":"Password Reset", "parent":1 },
+ { "id":4, "type":"Test Case", "title":"Login Test", "trace_to":2 }
+]
